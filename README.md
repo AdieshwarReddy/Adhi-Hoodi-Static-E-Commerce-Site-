@@ -1,4 +1,4 @@
-DEPLOYED LINK : https://app.netlify.com/projects/gregarious-unicorn-6e4557/overview
+DEPLOYED LINK :  https://gregarious-unicorn-6e4557.netlify.app/
 
 # ADHIHOODI
 
